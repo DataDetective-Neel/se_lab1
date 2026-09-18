@@ -5,3 +5,5 @@ print("3. Multiply")
 print("4. Divide")
 print("5. Power")
 
+from Subtraction import subtract
+
